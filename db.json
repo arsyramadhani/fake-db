@@ -1,0 +1,10 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "username": "yogesh",
+      "email": "email@email.com",
+      "password": "yogesh"
+    }
+  ]
+}
